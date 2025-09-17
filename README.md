@@ -47,4 +47,4 @@ git clone https://github.com/root086/portscan
 cd portscan
 
 # rodar o script
-python3 portscan_10pads.py
+python3 portscan.py
